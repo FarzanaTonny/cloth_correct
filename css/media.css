@@ -1,0 +1,313 @@
+/*custom media*/
+@media (max-width: 320.98px) { 
+/*Shop start*/
+.custom_row{
+	margin-left: -10px !important;
+	margin-right: -10px !important;
+}
+.item {
+    
+    height: 198px;
+
+    
+}
+.caption {
+
+    padding-bottom: 8px;
+}
+.caption h2{
+	font-size: 28px !important;
+}
+.detail h3 {
+    font-size: 11px !important;
+}
+/*shop end*/
+
+/*new start*/
+.caption h2 {
+    margin-top: 20px;
+}
+.swiper-container {
+    margin-left: 8px !important;
+}
+.img-box {
+    height: 205px;
+    width: 135px;
+    }
+
+     .swiper-slide{
+	width: 115px !important;
+}
+
+.slider-box {
+    margin-left: 8px;
+    margin-bottom: 20px;
+    height: 302px;
+    width: 135px;
+}
+
+/*new end*/
+
+
+ }
+
+ /*custom media*/
+@media (min-width: 321px) and (max-width: 374.98px) {
+	/*shop start*/
+	.custom_row{
+	margin-left: -10px !important;
+	margin-right: -10px !important;
+}
+ .item {
+    
+    height: 212px;
+   /* display: flex;
+    justify-content: center;*/
+    
+}
+.caption {
+
+    padding-bottom: 8px;
+}
+.caption h2{
+	font-size: 28px !important;
+}
+.detail h3 {
+    font-size: 12px !important;
+}
+/*Shop end*/
+
+/*new start*/
+.caption h2 {
+    margin-top: 25px;
+}
+.img-box {
+    height: 216px;
+    width: 150px;
+    }
+
+     .swiper-slide{
+	width: 131px !important;
+}
+
+.slider-box {
+    margin-left: 8px;
+    margin-bottom: 20px;
+    height: 313px;
+    width: 150px;
+}
+
+/*new end*/
+
+}
+
+/*custom media*/
+@media (min-width: 375px) and (max-width: 424.98px) {
+	/*Shop start*/
+	.custom_row{
+	margin-left: -10px !important;
+	margin-right: -10px !important;
+}
+ .item {
+    
+    height: 236px;
+    
+}
+.caption {
+
+    padding-bottom: 10px;
+}
+.detail h3 {
+    font-size: 13px !important;
+}
+/*Shop end*/
+
+/*new start*/
+.caption h2 {
+    margin-top: 25px;
+}
+.swiper-container {
+    margin-left: 8px !important;
+}
+.img-box {
+    height: 216px;
+    width: 150px;
+    }
+
+     .swiper-slide{
+	width: 131px !important;
+}
+
+.slider-box {
+    margin-left: 8px;
+    margin-bottom: 20px;
+    height: 313px;
+    width: 150px;
+}
+
+/*new end*/
+
+}
+/*custom media*/
+@media (min-width: 425px) and (max-width: 575.98px) {
+	/*Shop start*/
+	.custom_row{
+	margin-left: -10px !important;
+	margin-right: -10px !important;
+}
+ .item {
+    
+    height: 290px;
+    
+}
+.caption {
+
+    padding-bottom: 10px;
+}
+.detail h3 {
+    font-size: 13px !important;
+}
+/*Shop end*/
+
+/*new start*/
+.caption h2 {
+    margin-top: 30px;
+}
+.swiper-container {
+    margin-left: 8px !important;
+}
+.img-box {
+    height: 228px;
+    width: 157px;
+    }
+
+     .swiper-slide{
+	width: 144px !important;
+}
+
+.slider-box {
+    margin-left: 8px;
+    margin-bottom: 20px;
+    height: 325px;
+    width: 157px;
+}
+
+/*new end*/
+
+
+
+}
+
+
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+/*shop start*/
+.custom_row{
+	margin-left: -10px !important;
+	margin-right: -10px !important;
+}
+.item {
+    height: 375px;
+}
+.caption {
+    padding-bottom: 15px;
+}
+.detail h3 {
+    font-size: 12px !important;
+}
+/*shop end*/
+
+/*New start*/
+.caption h2 {
+    margin-top: 45px;
+}
+/*New end*/
+
+
+}
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+/*Shop start*/
+.item {
+    height: 510px;
+
+}
+.caption {
+    padding-bottom: 15px;
+}
+.detail h3 {
+    font-size: 14px !important;
+
+    }
+
+/*Shop end*/
+/*new start*/
+.caption h2 {
+    margin-top: 45px;
+}
+.img-box {
+    height: 407px;
+    width: 268px;
+    }
+
+     .swiper-slide{
+	width: 263px !important;
+}
+
+.slider-box {
+    margin-left: 15px;
+    margin-bottom: 20px;
+    height: 501px;
+    width: 268px;
+}
+/*new end*/
+
+
+}
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+/*shop start*/
+.item {
+    
+    height: 334px;
+}
+/*shop end*/
+
+/*new start*/
+.caption h2 {
+    margin-top: 50px;
+}
+.swiper-container {
+    margin-left: 24px !important;
+}
+.img-box {
+    height: 264px;
+    width: 182px;
+    }
+
+     .swiper-slide{
+	width: 165px !important;
+}
+
+.slider-box {
+    margin-left: 8px;
+    margin-bottom: 20px;
+    height: 359px;
+    width: 182px;
+}
+/*new end*/
+
+}
+
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+
+
+
+}
